@@ -177,7 +177,7 @@ Gap?
 - Lower the upper bound (Discover a new algorithm)
 - Raise the lower bound (more difficult)
 
-![Table](C:\Users\alexh\algocourse\Screenshot 2024-07-05 111120.png)
+![Table stuff](TableNotation.png)
 
 ## Memory
 
