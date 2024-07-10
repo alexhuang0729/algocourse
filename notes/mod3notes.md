@@ -3,7 +3,7 @@
 ## Intro
 
 ### Cast of characters
-- Programer needs working solution
+- Programmer needs working solution
 - Client wants to solve problem
 - Theoretician wants to understand
 

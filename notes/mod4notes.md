@@ -5,14 +5,15 @@
 ### Fundamental data types
 
 - Value: collection of objects
-- OperationsL insertm remove, iterate, test if empty
-- Intent is clear when we isnert
+- Operations insert, remove, iterate, test if empty
+- Intent is clear when we insert
 - Which item do we remove?
 
 ![Stack v Queue](StackQueue.png)
 
 - Stack: Examine the item most recently added. LIFO
 - Queue: Examine the item least recemtly added. FIFO
+- Deque: Both stack and a queue. FIFO + LIFO
 
 ## Client, implementation, interface
 

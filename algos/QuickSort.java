@@ -2,9 +2,7 @@ package algos;
 
 public class QuickSort {
     public static int[] sort(int[] arr, int beginIndex, int endIndex) {
-        if (arr.length < 2) {
-
-        } else {
+        if (arr.length > 1) {
             if (beginIndex < endIndex) {
                 int partitionIndex = partition(arr, beginIndex, endIndex);
                 sort(arr, beginIndex, partitionIndex - 1);
@@ -21,7 +19,6 @@ public class QuickSort {
         for (int j = beginIndex; j < endIndex; j++) {
             if (arr[j] <= pivot) {
                 i++;
-
                 int swapTemp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = swapTemp;
