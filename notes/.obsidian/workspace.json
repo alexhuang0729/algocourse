@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "804fc672012aca22",
+        "id": "5e22b44aa06f965f",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e0f04e2edef922",
+            "id": "afe4d55bf9ed32b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SomeTreeStuff.md",
+                "file": "mod6notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64685577c68a7388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mod7notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01da42db44bf29c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac95558209287d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a147d16265d8400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Breadth-First Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7d212ae8a23f310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Depth-First Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -48,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Trees",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SomeTreeStuff.md",
+                "file": "Depth-First Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +163,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SomeTreeStuff.md",
-                "linksCollapsed": false,
+                "file": "Depth-First Search.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SomeTreeStuff.md"
+                "file": "Depth-First Search.md"
               }
             }
           }
@@ -133,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,24 +206,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2e0f04e2edef922",
+  "active": "b7d212ae8a23f310",
   "lastOpenFiles": [
-    "().md",
-    "SomeTreeStuff.md",
-    "RotationTree1.png",
-    "RotationTree1.png.crdownload",
+    "Breadth-First Search.md",
+    "Graphs.md",
+    "Depth-First Search.md",
+    "Trees.md",
+    "mod8notes.md",
+    "mod7notes.md",
+    "mod6notes.md",
+    "mod5notes.md",
     "mod4notes.md",
-    "RotationTree.png",
+    "mod3notes.md",
+    "mod2notes.md",
+    "StackQueue.png",
+    "2024-07-15.md",
+    "Pasted image 20240715185511.png",
+    "Pasted image 20240715185346.png",
+    "Pasted image 20240715185151.png",
+    "Pasted image 20240715185045.png",
+    "Pasted image 20240715171157.png",
+    "Pasted image 20240715170111.png",
+    "Pasted image 20240715165910.png",
+    "Pasted image 20240715164427.png",
+    "Pasted image 20240715162806.png",
+    "mod6notes",
+    "Untitled.canvas",
+    "().md",
+    "RotationTree1.png.crdownload",
     "RotationTree.png.crdownload",
-    "AddBTree1.png",
     "AddBTree1.png.crdownload",
     "2024-07-10.md",
-    "AddBTree.png",
-    "AddBTree.png.crdownload",
-    "DeleteTree2.png",
-    "mod3notes.md",
-    "DeleteTree.png",
-    "Untitled.canvas",
-    "TableNotation.png"
+    "AddBTree.png.crdownload"
   ]
 }
